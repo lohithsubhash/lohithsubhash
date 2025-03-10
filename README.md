@@ -59,7 +59,11 @@ Welcome to my GitHub profile! I’m a 3rd-year B.Tech student pursuing **Compute
 
 ## 🌟 Certifications
 
-Computer Networking, Ethical Hacking, ORACLE Cloud Infrastructure, A Beginner's Guide to Linux Kernel Development, MATLAB Onramp and AWS Academy Machine Learning
+- Computer Networking
+- Ethical Hacking
+- ORACLE Cloud Infrastructure
+- A Beginner's Guide to Linux Kernel Development
+- MATLAB Onramp and AWS Academy Machine Learning
 
 ---
 
@@ -90,7 +94,5 @@ I love solving puzzles and riddles in my free time. It keeps my mind sharp and h
 ---
 
 Thanks for visiting my profile! Let’s build something amazing together. 😄
-
-![Footer](https://github.com/lohithsubhash/lohithsubhash/blob/main/footer.png?raw=true)
 
 ---
