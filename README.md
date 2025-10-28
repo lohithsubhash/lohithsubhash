@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Lohith Subhash!
 
-Welcome to my GitHub profile! I’m a 3rd-year B.Tech student pursuing **Computer Science with a specialization in Cyber Security**. I’m passionate about coding, cybersecurity, and creating innovative solutions. Below, you’ll find a quick overview of my skills, projects, and interests. Let’s dive in!
+Welcome to my GitHub profile! I’m a B.Tech student pursuing **Computer Science with a specialization in Cyber Security**. I’m passionate about coding, cybersecurity, and creating innovative solutions. Below, you’ll find a quick overview of my skills, projects, and interests. Let’s dive in!
 
 ---
 
 ## � About Me
 
-- 🎓 **3rd Year B.Tech Student** in Computer Science (Cyber Security)
+- 🎓 **B.Tech Student** in Computer Science (Cyber Security)
 - 💻 **Skills**: C, Python, HTML, Web Development, Cybersecurity Basics
 - 🧠 **Thinking Style**: Outside-the-box thinker, problem solver, and creative coder
 - 🌟 **Interests**: Cybersecurity, Ethical Hacking, Web Development, and Open Source Contributions
@@ -81,8 +81,8 @@ Welcome to my GitHub profile! I’m a 3rd-year B.Tech student pursuing **Compute
 
 I’m always open to collaborating on exciting projects or discussing ideas. Feel free to reach out to me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aln-subhash-581585255/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alnsubhash5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aln-subhash-581585255/](https://www.linkedin.com/in/areti-lohith-naga-subhash-a1b472390/?trk=opento_sprofile_details)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohithnagasubhash@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohithsubhash)
 
 ---
